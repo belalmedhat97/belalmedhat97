@@ -14,5 +14,5 @@ i'm ios developer had experince of more than  1 year and worked for two compaine
 ```
 ## Contact me
 
-- facebook:https://www.facebook.com/profile.php?id=100011255010198
-- linkedin:www.linkedin.com/in/belal-medhat-391556131
+- Facebook:https://www.facebook.com/profile.php?id=100011255010198
+- Linkedin:www.linkedin.com/in/belal-medhat-391556131
