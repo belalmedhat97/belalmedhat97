@@ -6,8 +6,9 @@ i'm ios developer had experince of more than  1 year and worked for two compaine
 ```
 - 🔭 I’m currently working on GameWo Project ...
 - 🌱 I’m currently learning 
-    - Rxswift 
+    - Combine
     - MVVM 
+    - SwiftUI
 - 💬 Ask me about any thing...
 - ⚡ Future aspirations: i'm thinking to finish advanced topic in ios then start web Development Using NodeJs ...
 ```
