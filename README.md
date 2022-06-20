@@ -4,7 +4,7 @@ i'm ios developer had experience of more than 3 year and worked for 3 companies 
 
 > Here are some ideas to get you started:
 ```
-- 🔭 I’m currently working on My start-up company ...
+- 🔭 I’m currently working on my start-up company ...
 - 🌱 I’m currently learning 
     - Combine
     - SwiftUI
