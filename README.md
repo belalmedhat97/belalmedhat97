@@ -1,13 +1,9 @@
 # Belal Medhat
 #### About Me📱
-i'm ios developer had experience of more than 3 year and worked for 3 companies and done many apps that are released to the market which are Ecommerce , market Place , Car rent ,furniture 
+i'm ios developer had experience of more than 3 year and worked for 4 companies and done many apps that are released to the market which are Ecommerce , market Place , Car rent ,furniture and curently working on my start-up https://www.mergy.cloud
 
 > Here are some ideas to get you started:
 ```
-- 🔭 I’m currently working on my start-up company (www.mergy.cloud)...
-- 🌱 I’m currently learning 
-    - Combine
-    - SwiftUI
 - 💬 Ask me about any thing...
 - ⚡ Future aspirations: i'm thinking to finish advanced topic in ios then start web Development Using NodeJs ...
 ```
